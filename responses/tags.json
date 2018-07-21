@@ -1,0 +1,26 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "request": {
+          "method": "GET",
+          "uri": "/tags/some-tag/"
+        },
+
+        "response": {
+          "status": "200",
+          "statusDescription": "OK",
+
+          "headers": {
+            "content-type": [
+              {
+                "value": "text/html",
+                "key": "Content-Type"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "request": {
+          "method": "GET",
+          "uri": "/test.jpg"
+        },
+
+        "response": {
+          "status": "200",
+          "statusDescription": "OK",
+
+          "headers": {
+            "content-type": [
+              {
+                "value": "image/jpeg",
+                "key": "Content-Type"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

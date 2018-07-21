@@ -1,0 +1,26 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "request": {
+          "method": "GET",
+          "uri": "/index.html"
+        },
+
+        "response": {
+          "status": "403",
+          "statusDescription": "Forbidden",
+
+          "headers": {
+            "content-type": [
+              {
+                "value": "text/html",
+                "key": "Content-Type"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

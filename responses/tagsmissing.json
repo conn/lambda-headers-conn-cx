@@ -1,0 +1,18 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "request": {
+          "method": "GET",
+          "uri": "/tags/some-tag/"
+        },
+
+        "response": {
+          "status": "404",
+          "statusDescription": "Not Found",
+          "headers": {}
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "request": {
+          "method": "GET",
+          "uri": "/index.html"
+        },
+
+        "response": {
+          "status": "302",
+          "statusDescription": "Moved Temporarily",
+          "headers": {}
+        }
+      }
+    }
+  ]
+}

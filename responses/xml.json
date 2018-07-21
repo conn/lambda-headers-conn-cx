@@ -1,0 +1,26 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "request": {
+          "method": "GET",
+          "uri": "/sitemap.xml"
+        },
+
+        "response": {
+          "status": "200",
+          "statusDescription": "OK",
+
+          "headers": {
+            "content-type": [
+              {
+                "value": "application/xml",
+                "key": "Content-Type"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
